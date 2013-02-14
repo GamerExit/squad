@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?DOCTYPE squad SYSTEM "squad.dtd"?>
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="GE">
+	<name>Gamer Exit</name>
+	<email>admin@gamerexit.com</email>
+	<web>http://GamerExit.com</web>
+	<picture>sqd_logo.paa</picture>
+	<title>[GE]</title>
+	<member id="42873094" nick="eXiLe">
+		<name>eXiLe</name>
+		<email>eXiLe@gamerexit.com</email>
+		<icq>N/A</icq>
+		<remark>Bullet Magnet</remark>
+	</member>
+	
+	<member id="74437638" nick="mamBa">
+		<name>mamBa</name>
+		<email></email>
+		<icq></icq>
+		<remark>Stay Healthy</remark>
+	</member>
+	
+	<member id="40488198" nick="Tactical Turtle">
+		<name>Tactical Turtle</name>
+		<email></email>
+		<icq></icq>
+		<remark>Snapping Turtle</remark>
+	</member>
+	
+	<member id="43798662" nick="Mobius">
+		<name>Mobius</name>
+		<email>russ@gamerexit.com</email>
+		<icq></icq>
+		<remark>CoDe MoNkEy</remark>
+	</member>
+	
+	<member id="26370566" nick="Det. John McClane">
+		<name>Det. John McClane</name>
+		<email></email>
+		<icq></icq>
+		<remark>Just a fly in the ointment, Hans. The monkey in the wrench. The pain in the ass.</remark>
+	</member>
+	
+	<member id="26917254" nick="XxSXBxX">
+		<name>XxSXBxX</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="38996998" nick="Pepkilz">
+		<name>Pepkilz</name>
+		<email></email>
+		<icq></icq>
+		<remark>Pepperoni Ninja</remark>
+	</member>
+	
+	<member id="19309318" nick="Tarunes">
+		<name>Tarunes</name>
+		<email></email>
+		<icq></icq>
+		<remark>Down Under</remark>
+	</member>
+	
+	<member id="79772806" nick="Rick James">
+		<name>Rick James</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="33748614" nick="Robby">
+		<name>Robby</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="43824006" nick="FrankzZ">
+		<name>FrankzZ</name>
+		<email></email>
+		<icq></icq>
+		<remark>Sgt Dead Babies</remark>
+	</member>
+	
+	<member id="76679942" nick="WulF.exe">
+		<name>WulF.exe</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="75204742" nick="Colton">
+		<name>Colton</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="4914624" nick="Renegade">
+		<name>Renegade</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="28023622" nick="Dannerz1">
+		<name>Dannerz1</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	
+	<member id="41119430" nick="Mr.Busket">
+		<name>Mr.Busket</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	<member id="64198278" nick="Lenoxx">
+		<name>Lenoxx</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+
+</squad>
